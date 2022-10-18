@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": 7
     },
     {
       "id": 2,
@@ -47,6 +47,30 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": 1
+    },
+    {
+      "name": "Jessie",
+      "image": "https://www.giantbomb.com/a/uploads/scale_small/82/827107/3327724-4043542103-latest.png",
+      "likes": 0,
+      "id": 9
+    },
+    {
+      "name": "Barbie",
+      "image": "https://static.wikia.nocookie.net/charactercommunity/images/8/8e/BarbieTransparentTS3.png/revision/latest?cb=20200908135758",
+      "likes": 0,
+      "id": 10
+    },
+    {
+      "name": "Ken",
+      "image": "https://static.wikia.nocookie.net/pixar/images/f/f7/63E4CDF2-2C21-4284-AA1F-E78A334DF7D8.jpeg/revision/latest?cb=20181207152430",
+      "likes": 0,
+      "id": 11
+    },
+    {
+      "name": "Lotso",
+      "image": "https://www.kindpng.com/picc/m/294-2949649_lotso-lotso-toy-story-hd-png-download.png",
+      "likes": 9,
+      "id": 12
     }
   ]
 }
